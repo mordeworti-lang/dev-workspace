@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  },
+  "name": "twoclass_ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
