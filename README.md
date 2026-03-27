@@ -202,4 +202,4 @@ For questions, issues, or contributions regarding this project, please refer to 
 
 ---
 
-**© 2026 Developer Management System** - Built with passion by [Jhon Stiven Zuluaga Jaramillo](https://github.com/jhonstiven) and [Juan José Giraldo Muñoz](https://github.com/juanjosegiraldo)
+**© 2026 Developer Management System** - Built with passion by [Jhon Stiven Zuluaga Jaramillo](https://github.com/mordeworti-lang) and [Juan José Giraldo Muñoz](https://github.com/juanjosegiraldo)
