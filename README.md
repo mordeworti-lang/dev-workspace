@@ -1,36 +1,36 @@
-# 🚀 Developer Management System
+# Developer Management System
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📋 Overview
+## Overview
 
 A comprehensive TypeScript-based system for managing software development teams, projects, issues, and pull requests. This system provides detailed analytics, team reporting, and project monitoring capabilities designed for modern software development workflows.
 
-## 🎯 Features
+## Features
 
-### 🏗️ Core Functionality
+### Core Functionality
 - **Team Management**: Complete developer profiles with roles, seniority levels, and technology stacks
 - **Project Tracking**: Repository and project management with issue and PR integration
 - **Issue Management**: Bug tracking and feature requests with priority-based categorization
 - **Pull Request Monitoring**: Code review workflow with line count tracking and status management
 - **Analytics Dashboard**: Comprehensive statistics and alerts for project health
 
-### 📊 Analytics & Reporting
+### Analytics & Reporting
 - **Team Composition Analysis**: Role distribution and seniority breakdown
 - **Issue Statistics**: Status tracking by type (bugs vs improvements) and priority levels
 - **Performance Metrics**: Pull request size analysis and developer workload monitoring
 - **Alert System**: Automated detection of critical issues and team overload situations
 
-### 🔧 Technical Features
+### Technical Features
 - **Type-Safe Architecture**: Full TypeScript implementation with strict type checking
 - **Modular Design**: Clean separation of concerns with reusable components
 - **Data Validation**: Comprehensive type definitions for all entities
 - **Scalable Structure**: Designed for easy extension and maintenance
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Language**: TypeScript 6.0.2
 - **Target Runtime**: Node.js
@@ -38,7 +38,7 @@ A comprehensive TypeScript-based system for managing software development teams,
 - **Version Control**: Git
 - **Package Manager**: npm
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 twoClass_ts/
@@ -51,7 +51,7 @@ twoClass_ts/
 └── README.md           # This documentation
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -88,7 +88,7 @@ For development with automatic compilation and execution:
 npm run dev
 ```
 
-## 📊 Data Models
+## Data Models
 
 ### Developer
 ```typescript
@@ -118,7 +118,7 @@ interface proyecto {
 - **Issues**: Bug tracking and feature management with priority-based workflows
 - **Pull Requests**: Code review management with author/reviewer assignment and line tracking
 
-## 📈 Usage Examples
+## Usage Examples
 
 ### Basic Team Reporting
 ```typescript
@@ -135,7 +135,7 @@ function_issues(proyecto1, issues);
 mostrarAlertasProyecto(proyecto1, issues, pullRequests);
 ```
 
-## 🎨 Sample Output
+## Sample Output
 
 The system generates comprehensive reports including:
 - Team member profiles with technology stacks
@@ -143,7 +143,7 @@ The system generates comprehensive reports including:
 - Issue tracking with priority and status breakdown
 - Automated alerts for critical issues and workload management
 
-## 🔧 Configuration
+## Configuration
 
 ### TypeScript Settings
 - **Target**: ES6
@@ -157,11 +157,11 @@ The system generates comprehensive reports including:
 - `npm start`: Execute the compiled application
 - `npm run dev`: Compile and run in development mode
 
-## 🤝 Contributing
+## Contributing
 
 This project was developed as part of a collaborative software engineering initiative.
 
-### 👥 Development Team
+### Development Team
 
 **Lead Developers:**
 - **Jhon Stiven Zuluaga Jaramillo** - *Backend Architecture & System Design*
@@ -173,11 +173,11 @@ This project was developed as part of a collaborative software engineering initi
 - **Performance**: Optimized data structures and efficient algorithms
 - **Documentation**: Comprehensive inline documentation and external guides
 
-## 📝 License
+## License
 
 This project is licensed under the ISC License - see the package.json file for details.
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 ### Planned Features
 - [ ] Web-based dashboard interface
@@ -196,10 +196,10 @@ This project is licensed under the ISC License - see the package.json file for d
 - [ ] CI/CD pipeline integration
 - [ ] Docker containerization
 
-## 📞 Support
+## Support
 
 For questions, issues, or contributions regarding this project, please refer to the GitHub repository issues section or contact the development team directly.
 
 ---
 
-**© 2026 Developer Management System** - Built with ❤️ by [Jhon Stiven Zuluaga Jaramillo](https://github.com/jhonstiven) and [Juan José Giraldo Muñoz](https://github.com/juanjosegiraldo)
+**© 2026 Developer Management System** - Built with passion by [Jhon Stiven Zuluaga Jaramillo](https://github.com/jhonstiven) and [Juan José Giraldo Muñoz](https://github.com/juanjosegiraldo)
